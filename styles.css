@@ -1,0 +1,42 @@
+/* add your CSS here */
+#top
+{
+	border-width:2px;
+	border-style: groove;
+	margin-left:450px;
+	margin-right:548px;
+	padding-left:1.2%;
+	box-shadow: 10px 10px 5px 0px rgba(179,168,179,0.75);
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size:15px;
+}
+.details{
+	border-width:2px;
+	width:285px;
+	border-style: groove;
+	margin-top:10px;
+	//margin-right:11px;
+	margin-bottom:10px;
+	padding-left:3%;
+	padding-right:1%;
+}
+	
+.animal
+{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:25px;
+}
+.fact
+{
+	font-style:italic;
+}
+ul
+{
+	list-style-type:none;
+	list-style-position:inside;
+	padding-left:1%;
+}
+span
+{
+	font-weight:bold;
+}
